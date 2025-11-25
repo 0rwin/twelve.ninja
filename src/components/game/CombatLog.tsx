@@ -1,4 +1,3 @@
-import React from 'react';
 import { Scroll } from 'lucide-react';
 
 export function CombatLog() {
