@@ -1,7 +1,14 @@
 import React, { useState, useEffect } from 'react';
 
+interface World {
+    id: number;
+    name: string;
+    description: string;
+    difficulty: string;
+}
+
 // World data matching your tiles (1-10 in order)
-const worldData = [
+const worldData: World[] = [
     { id: 1, name: "The Obsidian Crag", description: "A jagged wasteland of sharp rocks and dark minerals. Resources are rare, but valuable.", difficulty: "Hard" },
     { id: 2, name: "Duskfall Hamlet", description: "A quiet village perpetually shrouded in twilight. Excellent for trade.", difficulty: "Easy" },
     { id: 3, name: "Shadow-Crest Summit", description: "High-altitude peaks where the air is thin and ancient beasts roost.", difficulty: "Hard" },
@@ -15,19 +22,19 @@ const worldData = [
 ];
 
 function WorldSelection() {
-    const [hoveredWorld, setHoveredWorld] = useState(null);
+    const [hoveredWorld, setHoveredWorld] = useState<World | null>(null);
     const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
 
     // Track mouse position globally
     useEffect(() => {
-        const handleMouseMove = (e) => {
+        const handleMouseMove = (e: MouseEvent) => {
             setMousePos({ x: e.clientX, y: e.clientY });
         };
         window.addEventListener('mousemove', handleMouseMove);
         return () => window.removeEventListener('mousemove', handleMouseMove);
     }, []);
 
-    const handleWorldSelect = (world) => {
+    const handleWorldSelect = (world: World) => {
         console.log(`Loading ${world.name}...`);
         alert(`Entering ${world.name}!\n\n(This would load the 256x256 grid for this region)`);
     };
