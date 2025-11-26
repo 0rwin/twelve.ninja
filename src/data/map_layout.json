@@ -1,0 +1,82 @@
+[
+  {
+    "id": "region_01",
+    "image": "/maps/hexes/hex_01.png",
+    "x": 256,
+    "y": 91,
+    "width": 203,
+    "height": 203
+  },
+  {
+    "id": "region_02",
+    "image": "/maps/hexes/hex_02.png",
+    "x": 512,
+    "y": 91,
+    "width": 203,
+    "height": 203
+  },
+  {
+    "id": "region_03",
+    "image": "/maps/hexes/hex_03.png",
+    "x": 768,
+    "y": 91,
+    "width": 203,
+    "height": 203
+  },
+  {
+    "id": "region_04",
+    "image": "/maps/hexes/hex_04.png",
+    "x": 204,
+    "y": 273,
+    "width": 203,
+    "height": 203
+  },
+  {
+    "id": "region_05",
+    "image": "/maps/hexes/hex_05.png",
+    "x": 408,
+    "y": 273,
+    "width": 203,
+    "height": 203
+  },
+  {
+    "id": "region_06",
+    "image": "/maps/hexes/hex_06.png",
+    "x": 612,
+    "y": 273,
+    "width": 203,
+    "height": 203
+  },
+  {
+    "id": "region_07",
+    "image": "/maps/hexes/hex_07.png",
+    "x": 816,
+    "y": 273,
+    "width": 203,
+    "height": 203
+  },
+  {
+    "id": "region_08",
+    "image": "/maps/hexes/hex_08.png",
+    "x": 256,
+    "y": 455,
+    "width": 203,
+    "height": 192
+  },
+  {
+    "id": "region_09",
+    "image": "/maps/hexes/hex_09.png",
+    "x": 512,
+    "y": 455,
+    "width": 203,
+    "height": 192
+  },
+  {
+    "id": "region_10",
+    "image": "/maps/hexes/hex_10.png",
+    "x": 768,
+    "y": 455,
+    "width": 203,
+    "height": 192
+  }
+]

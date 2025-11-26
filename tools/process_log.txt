@@ -1,0 +1,89 @@
+Loading image from C:\Users\colte\.gemini\antigravity\brain\1aa64f05-0930-4329-a33f-65e5940b7ef0\uploaded_image_1764183546085.png...
+Found 337 contours. Filtering for hexagons...
+Contour 0: Area=3474.0, Vertices=8
+Identified 0 potential hexagons.
+Saved layout data to c:\Users\colte\twelveninja\src\data\map_layout.json
+Loading image from C:\Users\colte\.gemini\antigravity\brain\1aa64f05-0930-4329-a33f-65e5940b7ef0\uploaded_image_1764183546085.png...
+Image shape: (546, 1024, 3)
+Found 520 contours. Filtering for hexagons...
+Contour 0: Area=3515.5, Vertices=21
+Contour 1: Area=1392.0, Vertices=18
+Contour 2: Area=1101.5, Vertices=13
+Identified 0 potential hexagons.
+Saved layout data to c:\Users\colte\twelveninja\src\data\map_layout.json
+Loading image from C:\Users\colte\.gemini\antigravity\brain\1aa64f05-0930-4329-a33f-65e5940b7ef0\uploaded_image_1764183546085.png...
+Image shape: (546, 1024, 3)
+Found 1218 contours. Filtering for hexagons...
+Top Contour 0: Area=227718.5
+Top Contour 1: Area=26147.0
+Top Contour 2: Area=2867.0
+Top Contour 3: Area=2765.5
+Top Contour 4: Area=1237.5
+Top Contour 5: Area=942.5
+Top Contour 6: Area=893.0
+Top Contour 7: Area=886.0
+Top Contour 8: Area=785.5
+Top Contour 9: Area=722.5
+Contour 0: Area=227718.5, Vertices=15
+Contour 1: Area=26147.0, Vertices=3
+Contour 2: Area=2867.0, Vertices=26
+Contour 3: Area=2765.5, Vertices=22
+Contour 4: Area=1237.5, Vertices=22
+Contour 5: Area=942.5, Vertices=26
+Contour 6: Area=893.0, Vertices=31
+Contour 7: Area=886.0, Vertices=29
+Contour 8: Area=785.5, Vertices=27
+Contour 9: Area=722.5, Vertices=27
+Contour 10: Area=683.0, Vertices=33
+Contour 11: Area=644.5, Vertices=23
+Contour 12: Area=616.0, Vertices=30
+Contour 13: Area=546.5, Vertices=14
+Contour 14: Area=520.0, Vertices=23
+Identified 0 potential hexagons.
+Saved layout data to c:\Users\colte\twelveninja\src\data\map_layout.json
+Loading image from C:\Users\colte\.gemini\antigravity\brain\1aa64f05-0930-4329-a33f-65e5940b7ef0\uploaded_image_1764183546085.png...
+Image shape: (546, 1024, 3)
+Found 1843 contours. Filtering for hexagons...
+Top Contour 0: Area=227718.5
+Top Contour 1: Area=26147.0
+Top Contour 2: Area=11866.0
+Top Contour 3: Area=6109.0
+Top Contour 4: Area=6008.0
+Top Contour 5: Area=5838.5
+Top Contour 6: Area=2969.5
+Top Contour 7: Area=2867.0
+Top Contour 8: Area=2765.5
+Top Contour 9: Area=2205.0
+Contour 1: Area=26147.0, Vertices=3, AR=23.27
+Contour 2: Area=11866.0, Vertices=3, AR=40.61
+Contour 3: Area=6109.0, Vertices=21, AR=1.72
+Contour 4: Area=6008.0, Vertices=20, AR=1.91
+Contour 5: Area=5838.5, Vertices=18, AR=0.63
+Identified 0 potential hexagons.
+Saved layout data to c:\Users\colte\twelveninja\src\data\map_layout.json
+Loading image from C:\Users\colte\.gemini\antigravity\brain\1aa64f05-0930-4329-a33f-65e5940b7ef0\uploaded_image_1764183546085.png...
+Image shape: (546, 1024, 3)
+Found 1 contours. Filtering for hexagons...
+Top Contour 0: Area=549131.5
+Contour 0: Area=549131.5, Vertices=7, AR=1.88
+Identified 1 potential hexagons.
+Saved hex_01.png
+Saved layout data to c:\Users\colte\twelveninja\src\data\map_layout.json
+Loading image from C:\Users\colte\.gemini\antigravity\brain\1aa64f05-0930-4329-a33f-65e5940b7ef0\uploaded_image_1764183546085.png...
+Image shape: (546, 1024, 3)
+Found 1 contours. Filtering for hexagons...
+Top Contour 0: Area=549131.5
+Contour 0: Area=549131.5, Vertices=7, AR=1.88
+Identified 1 potential hexagons.
+Detection failed to find 10 hexagons. Generating fallback grid...
+Saved hex_01.png
+Saved hex_02.png
+Saved hex_03.png
+Saved hex_04.png
+Saved hex_05.png
+Saved hex_06.png
+Saved hex_07.png
+Saved hex_08.png
+Saved hex_09.png
+Saved hex_10.png
+Saved layout data to c:\Users\colte\twelveninja\src\data\map_layout.json

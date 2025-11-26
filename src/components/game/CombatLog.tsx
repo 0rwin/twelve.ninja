@@ -1,3 +1,5 @@
+
+
 import { Scroll } from 'lucide-react';
 
 export function CombatLog() {
@@ -14,7 +16,7 @@ export function CombatLog() {
         <Scroll size={14} />
         <span className="text-[10px] uppercase tracking-widest">Chronicle</span>
       </div>
-      
+
       {logs.map((log, i) => (
         <div key={i} className={`
           p-2 border-b border-ink-800/50 

@@ -24,7 +24,9 @@ export default {
         hanko: {
           500: '#cd3838', // Stamp Red
           600: '#a32424', // Hover Red
-        }
+        },
+        uiBg: '#0d0d0f',
+        panel: 'rgba(255,255,255,0.05)'
       },
       fontFamily: {
         // We will load these next

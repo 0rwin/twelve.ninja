@@ -1,3 +1,8 @@
+# Twelve Ninja
+
+## Implementation Doctrine
+**CRITICAL**: Please read [IMPLEMENTATION_DOCTRINE.md](./IMPLEMENTATION_DOCTRINE.md) before contributing. This document outlines the architectural and coding standards for the project.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
