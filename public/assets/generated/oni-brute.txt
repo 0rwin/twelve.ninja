@@ -1,0 +1,8 @@
+Art prompt for oni-brute:
+- Character: Massive oni brute warrior
+- Style: Bold brushwork with rugged texture
+- Mood: Menacing, raw power
+- Elements: Horns, tusks, spiked club, battle scars, smoke/embers accents
+- Palette: Deep reds, charcoal blacks, sepia, steel gray
+- Composition: Dynamic three-quarter pose; strong silhouette
+- Output: Character illustration; no text; high-contrast for UI

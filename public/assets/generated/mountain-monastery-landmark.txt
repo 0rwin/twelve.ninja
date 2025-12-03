@@ -1,0 +1,8 @@
+Art prompt for mountain-monastery-landmark:
+- Scene: Remote mountain monastery perched on cliffs
+- Style: Ink wash landscape with fine architectural lines
+- Mood: Serene, austere, sacred
+- Elements: Terraced paths, stone lanterns, pine trees, clouds rolling below, prayer flags subtly
+- Palette: Cool grays, parchment, muted greens, soft gold highlights
+- Composition: Landmark focus with environmental scale, atmospheric perspective
+- Output: Landscape card art; readable against dark UI

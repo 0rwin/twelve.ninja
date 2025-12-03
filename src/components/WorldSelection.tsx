@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { BackgroundLayout } from './layout/BackgroundLayout';
 
 interface World {
     id: number;
@@ -21,7 +22,11 @@ const worldData: World[] = [
     { id: 10, name: "The Calm Waters", description: "Peaceful lakes and fishing spots. A safe haven for beginners.", difficulty: "Easy" }
 ];
 
-function WorldSelection() {
+interface WorldSelectionProps {
+    onSelect: (world: World) => void;
+}
+
+function WorldSelection({ onSelect }: WorldSelectionProps) {
     const [hoveredWorld, setHoveredWorld] = useState<World | null>(null);
     const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
 
@@ -36,15 +41,14 @@ function WorldSelection() {
 
     const handleWorldSelect = (world: World) => {
         console.log(`Loading ${world.name}...`);
-        alert(`Entering ${world.name}!\n\n(This would load the 256x256 grid for this region)`);
+        onSelect(world);
     };
 
     return (
+        <BackgroundLayout>
         <div style={{
-            width: '100vw',
-            height: '100vh',
-            background: 'linear-gradient(135deg, #d4c5a9 0%, #b8a280 50%, #a89968 100%)',
-            backgroundImage: 'url("data:image/svg+xml,%3Csvg width=\'100\' height=\'100\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cfilter id=\'noise\'%3E%3CfeTurbulence type=\'fractalNoise\' baseFrequency=\'0.9\' numOctaves=\'4\' /%3E%3C/filter%3E%3Crect width=\'100\' height=\'100\' filter=\'url(%23noise)\' opacity=\'0.05\'/%3E%3C/svg%3E")',
+            width: '100%',
+            minHeight: '100vh',
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
@@ -187,6 +191,7 @@ function WorldSelection() {
                 Click a region to begin your journey
             </p>
         </div>
+        </BackgroundLayout>
     );
 }
 

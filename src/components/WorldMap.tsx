@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import mapLayout from '../data/map_layout.json';
+import { worldData } from '../data/worldData';
 
 interface Region {
     id: string;
@@ -10,7 +11,11 @@ interface Region {
     height: number;
 }
 
-export default function WorldMap() {
+interface WorldMapProps {
+    onTileSelect?: (tileId: string) => void;
+}
+
+export default function WorldMap({ onTileSelect }: WorldMapProps) {
     const [regions, setRegions] = useState<Region[]>([]);
     const [hoveredRegion, setHoveredRegion] = useState<string | null>(null);
 
@@ -21,8 +26,31 @@ export default function WorldMap() {
     }, []);
 
     const handleRegionClick = (regionId: string) => {
-        console.log(`handleRegionSelect(${regionId})`);
-        // Add your navigation or selection logic here
+        // Validate regionId format: must contain underscore and numeric suffix
+        if (typeof regionId !== 'string' || !regionId.includes('_')) {
+            console.warn(`Invalid regionId: '${regionId}' (missing underscore)`);
+            return;
+        }
+        const parts = regionId.split('_');
+        if (parts.length < 2) {
+            console.warn(`Invalid regionId: '${regionId}' (incorrect format)`);
+            return;
+        }
+        const numStr = parts[1];
+        const num = Number(numStr);
+        if (!Number.isFinite(num) || !Number.isInteger(num)) {
+            console.warn(`Invalid regionId: '${regionId}' (suffix not a finite integer)`);
+            return;
+        }
+        const tileIndex = num - 1;
+        if (tileIndex < 0 || tileIndex >= worldData.length) {
+            console.warn(`Invalid regionId: '${regionId}' (index ${tileIndex} out of bounds)`);
+            return;
+        }
+        const tile = worldData[tileIndex];
+        if (tile && onTileSelect) {
+            onTileSelect(tile.id.toString());
+        }
     };
 
     return (

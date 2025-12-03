@@ -1,0 +1,57 @@
+# Profile Banner Pattern - Art Prompt
+
+**File Type**: PNG (1200x300, tileable)
+**Style**: Dark Sumi-e Ink Wash
+
+## Description
+A subtle, tileable background pattern for the top of profile pages. Should be atmospheric and not distract from profile content.
+
+## Gemini/AI Art Prompt
+
+```
+Create a horizontal banner background pattern for a ninja-themed profile page.
+
+**Art Style:**
+- Dark Sumi-e ink wash painting technique
+- Extremely subtle and atmospheric
+- Misty, ethereal quality
+- Minimalist approach - mostly empty space
+- Black and dark grey gradients
+- Very faint ink washes suggesting depth
+
+**Composition:**
+- Horizontal format: 1200x300 pixels
+- Tileable horizontally (seamless edges)
+- Suggestion of bamboo stalks or trees in silhouette (very faint, 10-20% opacity)
+- Wisps of mist or fog using diluted ink effects
+- Maybe a distant mountain range silhouette at the horizon line
+- Predominantly dark with subtle tonal variations
+
+**Visual Elements:**
+- Ink wash clouds or mist (very transparent)
+- Faint vertical elements (bamboo, trees) at edges
+- Horizontal gradient from darker bottom to slightly lighter top
+- Texture suggesting rice paper or canvas
+- NO bright colors, NO sharp details, NO busy patterns
+
+**Mood:**
+- Contemplative, serene
+- Mysterious depth
+- Traditional Japanese landscape atmosphere
+- Empty but intentional (wabi-sabi aesthetic)
+
+**Negative Prompt:**
+photorealistic, 3D render, bright colors, detailed elements, busy pattern, modern design, geometric shapes, vibrant, high contrast
+```
+
+## Usage
+- Top banner section of profile page
+- Behind profile avatar and username
+- Creates atmospheric depth without competing with UI elements
+- Should be dark enough that white/parchment text is easily readable
+
+## Color Palette
+- Base: ink-950 (#050505) to ink-900 (#0d0d0d)
+- Mist: ink-700 (#1e1e1e) at 15% opacity
+- Subtle highlights: ink-600 (#2a2a2a) at 20% opacity
+- Should blend seamlessly with ink-950 background

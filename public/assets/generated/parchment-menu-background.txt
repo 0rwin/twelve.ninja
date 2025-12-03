@@ -1,0 +1,8 @@
+Art prompt for parchment-menu-background:
+- Purpose: Site-wide menu/background parchment texture
+- Style: High-resolution parchment with natural aging
+- Mood: Subtle, readable, non-distracting
+- Elements: Grain, stains, edge darkening, light creases; avoid busy patterns
+- Palette: Warm parchment tones, gentle vignette
+- Constraints: Seamless feel across screen sizes, no hard seams; object-cover friendly
+- Output: Background texture optimized for UI legibility

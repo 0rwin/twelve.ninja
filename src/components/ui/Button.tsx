@@ -8,7 +8,7 @@ interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
 
 export function Button({ className, variant = 'primary', ...props }: ButtonProps) {
   const baseStyles = "relative px-6 py-2 font-sans font-medium transition-all duration-300 border backdrop-blur-sm group overflow-hidden tracking-widest uppercase text-xs";
-  
+
   const variants = {
     // The "Hanko Stamp" look
     primary: "bg-hanko-500/10 border-hanko-500 text-hanko-500 hover:bg-hanko-500 hover:text-white hover:shadow-[0_0_15px_rgba(205,56,56,0.5)] active:scale-95",
@@ -27,3 +27,5 @@ export function Button({ className, variant = 'primary', ...props }: ButtonProps
     </button>
   );
 }
+
+export default Button;

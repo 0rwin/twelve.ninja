@@ -1,0 +1,8 @@
+Art prompt for health-potion:
+- Subject: Small glass vial health potion
+- Style: Minimalist icon / vector-friendly
+- Mood: Clean, readable, game UI icon
+- Elements: Rounded vial with cork, red liquid, subtle highlights, simple shadow
+- Palette: Red accent on neutral parchment/ink tones
+- Constraints: SVG-friendly shapes, no complex gradients, strong silhouette
+- Output: 1:1 icon, flat design, crisp edges

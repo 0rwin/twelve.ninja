@@ -1,0 +1,56 @@
+# Profile Avatar Placeholder - Art Prompt
+
+**File Type**: PNG (512x512)
+**Style**: Dark Sumi-e Ink Wash
+
+## Description
+A default profile avatar icon for players who haven't uploaded a custom image. Should feel ninja-themed and match the Twelve Ninja ink wash aesthetic.
+
+## Gemini/AI Art Prompt
+
+```
+Create a profile avatar placeholder icon for a ninja-themed browser RPG game.
+
+**Art Style:**
+- Dark Sumi-e ink wash painting technique
+- Japanese brush painting aesthetic
+- High-contrast silhouette approach
+- Minimalist black and grey palette
+- Single deep crimson accent (optional - perhaps in the eyes or headband)
+- Fluid brushstrokes suggesting motion and mystery
+
+**Composition:**
+- Circular avatar format (512x512 pixels)
+- Centered composition
+- Silhouette of a hooded ninja face
+- Eyes barely visible (glowing subtly if using crimson accent)
+- Traditional ninja hood/mask covering most of face
+- Strong, clean brushstrokes defining the hood edges
+- Subtle texture suggesting fabric or shadow
+
+**Visual Elements:**
+- Ink splatters at edges (very subtle)
+- Gradient fade from solid black (center) to softer grey (edges)
+- No detailed facial features - mystery and anonymity are key
+- Could include suggestion of a headband with small emblem
+
+**Mood:**
+- Anonymous, mysterious, professional
+- Calm yet dangerous
+- Traditional yet timeless
+
+**Negative Prompt:**
+photorealistic, 3D render, colorful, cartoonish, detailed face, bright colors, modern style, anime eyes, friendly expression
+```
+
+## Usage
+- Default avatar for all new players
+- Displayed on profile page when no custom avatar is set
+- Used in leaderboards, chat, and player lists
+- Should maintain visual quality when scaled to 64x64 for thumbnails
+
+## Color Palette
+- Primary: ink-950 (#050505)
+- Secondary: ink-800 (#1a1a1a)
+- Accent (optional): hanko-500 (#cd3838)
+- Highlight: parchment-100 (#e8e6df) for subtle edge glow

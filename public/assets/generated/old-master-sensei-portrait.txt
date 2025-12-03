@@ -1,0 +1,8 @@
+Art prompt for old-master-sensei-portrait:
+- Character: Elder sensei with calm authority
+- Style: Ukiyo-e inspired portrait with brush texture
+- Mood: Wise, disciplined, compassionate strength
+- Elements: Weathered features, simple robe, wooden practice sword, scroll seal, subtle ink splatter texture
+- Palette: Ink blacks, parchment, muted browns, gentle warm highlights
+- Framing: Bust/half-body portrait with centered composition
+- Output: Character portrait suitable for profile/card

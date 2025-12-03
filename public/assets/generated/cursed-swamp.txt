@@ -1,0 +1,8 @@
+Art prompt for cursed-swamp:
+- Scene: A foreboding cursed swamp at twilight
+- Style: Traditional Japanese ink wash with subtle watercolor
+- Mood: Eerie, misty, quiet danger
+- Elements: Twisted trees, low fog, stagnant water, faint will-o’-wisps, ancient torii remnants half-sunken, distant silhouettes
+- Palette: Muted greens, sepia, parchment tones, soft blacks
+- Composition: Wide landscape, atmospheric depth, soft vignette edges (parchment texture)
+- Output: Landscape illustration; no text; high contrast readability over dark UI

@@ -1,0 +1,8 @@
+Art prompt for silent-shadow-ninja:
+- Character: Silent shadow ninja operative
+- Style: Ink wash with sharp accents
+- Mood: Stealthy, poised, lethal calm
+- Elements: Dark outfit, face partially obscured, blades, wind-blown scarf, rooftop silhouette
+- Palette: Cool blacks, muted blues, parchment highlights
+- Composition: Dynamic silhouette with environmental hint; strong contrast
+- Output: Character illustration for card/UI

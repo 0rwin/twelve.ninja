@@ -1,0 +1,181 @@
+# Profile Stat Icons - Art Prompt Collection
+
+**File Type**: SVG (preferred) or PNG (128x128 each)
+**Style**: Dark Sumi-e Ink Wash Icons
+
+## Description
+A set of clean, minimalist icons for displaying player stats on the profile page. Should match the lucide-react icon style but with ink wash aesthetic.
+
+---
+
+## Icon Set Needed
+
+### 1. Username/Identity Icon
+
+```
+Create an icon representing player identity/username.
+
+**Art Style:**
+- Dark Sumi-e ink wash style
+- Single, bold brushstroke technique
+- High-contrast black silhouette
+- Circular badge or scroll shape with name/kanji character
+- 128x128 pixels, transparent background
+- Clean, symbolic design
+
+**Visual:**
+- Circular badge or unfurled scroll
+- Suggestion of Japanese kanji character in center
+- Minimal detail, maximum recognizability
+- Could include small seal stamp (hanko) design element
+
+**Negative Prompt:**
+photorealistic, 3D, detailed, colorful, modern, geometric
+```
+
+---
+
+### 2. Email/Contact Icon
+
+```
+Create an icon representing email/communication.
+
+**Art Style:**
+- Dark Sumi-e ink wash style
+- Simple folded letter or traditional Japanese message scroll
+- Black silhouette with subtle sepia accent
+- 128x128 pixels, transparent background
+- Iconic and easily readable
+
+**Visual:**
+- Rolled scroll with ribbon/string
+- OR traditional folded letter shape
+- Minimal decorative elements
+- One or two brush strokes maximum
+
+**Negative Prompt:**
+photorealistic, modern envelope, 3D, colorful, detailed textures
+```
+
+---
+
+### 3. Shield/Security Icon (Account Created, Password Protection)
+
+```
+Create an icon representing account security and protection.
+
+**Art Style:**
+- Dark Sumi-e ink wash style
+- Traditional Japanese war shield (tate) or samurai crest
+- Black silhouette with optional red accent
+- 128x128 pixels, transparent background
+- Strong, protective symbolism
+
+**Visual:**
+- Simplified tate shield shape
+- OR circular mon (family crest) with protective symbol
+- Kanji character for "protect" or "guard" (optional)
+- Bold, confident brushstrokes
+
+**Negative Prompt:**
+photorealistic, modern shield, 3D render, colorful, detailed patterns, European heraldry
+```
+
+---
+
+### 4. Calendar/Time Icon (Member Since Date)
+
+```
+Create an icon representing time/membership duration.
+
+**Art Style:**
+- Dark Sumi-e ink wash style
+- Traditional Japanese calendar or time symbol
+- Black and grey tones
+- 128x128 pixels, transparent background
+- Historical but clean design
+
+**Visual:**
+- Stylized hourglass OR
+- Traditional Japanese moon phases icon OR
+- Simplified calendar grid with ink brush aesthetic
+- Circular or square composition
+- One dominant element
+
+**Negative Prompt:**
+photorealistic, modern calendar, digital clock, 3D, bright colors, complex details
+```
+
+---
+
+### 5. Settings/Edit Icon (For Edit Buttons)
+
+```
+Create an icon representing editing/settings.
+
+**Art Style:**
+- Dark Sumi-e ink wash style
+- Traditional brush or writing implement
+- Black silhouette with minimal accent
+- 128x128 pixels, transparent background
+- Action-oriented design
+
+**Visual:**
+- Japanese calligraphy brush (fude) at angle
+- Simple, elegant form
+- Suggestion of ink drop at tip
+- Could show brush mid-stroke
+
+**Negative Prompt:**
+photorealistic, modern pen, pencil, 3D, colorful, detailed bristles
+```
+
+---
+
+### 6. Danger/Warning Icon (For Delete Account)
+
+```
+Create an icon representing danger/warning for destructive actions.
+
+**Art Style:**
+- Dark Sumi-e ink wash style
+- Traditional Japanese warning symbol
+- Black with deep red accent (hanko red)
+- 128x128 pixels, transparent background
+- Urgent but aesthetic
+
+**Visual:**
+- Circular warning badge with kanji for "danger" or "warning"
+- OR traditional Japanese "X" mark (batsu)
+- OR broken seal/broken circle symbolism
+- Red accent on black base
+- Sharp, angular brushstrokes for urgency
+
+**Negative Prompt:**
+photorealistic, modern warning sign, triangle, 3D, bright yellow, exclamation mark
+```
+
+---
+
+## Usage Notes
+
+- All icons should maintain visual consistency as a set
+- Should be recognizable even at 32x32 size
+- Must work on both dark backgrounds (ink-950) and lighter panels (ink-800)
+- Can be used with or without text labels
+- Should feel "hand-painted" but still clean and professional
+
+## Design Principles
+
+1. **Silhouette First**: Icon should be recognizable by shape alone
+2. **Minimal Strokes**: Each icon uses 1-3 major brushstrokes
+3. **Cultural Consistency**: All icons reference Japanese visual language
+4. **Functional Clarity**: Purpose must be immediately obvious
+5. **Aesthetic Cohesion**: Works together as unified set
+
+## Color Palette
+
+- Primary: ink-950 (#050505) - main icon color
+- Secondary: ink-700 (#1e1e1e) - secondary elements/shadows
+- Accent: hanko-500 (#cd3838) - only for danger/warning icon
+- Background: Transparent (for flexible use)

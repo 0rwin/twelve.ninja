@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" fill="#E0E0E0"/>
+  <circle cx="32" cy="32" r="24" fill="#FF0000"/>
+  <text x="32" y="38" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Potion</text>
+  <text x="32" y="24" font-family="Arial" font-size="10" fill="black" text-anchor="middle">Placeholder</text>
+</svg>

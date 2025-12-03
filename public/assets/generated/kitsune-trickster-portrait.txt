@@ -1,0 +1,8 @@
+Art prompt for kitsune-trickster-portrait:
+- Character: Kitsune trickster (fox spirit) in human form
+- Style: Portrait bust, ukiyo-e inspired with modern polish
+- Mood: Playful, cunning, enigmatic
+- Elements: Fox mask tilted, subtle fox ears hinted, flowing kimono, talismans, faint ethereal tails implied in negative space
+- Palette: Warm reds, creams, ink blacks, gold accents
+- Framing: Bust portrait with parchment backdrop, soft vignette
+- Output: Character portrait; no text; suitable for card UI
